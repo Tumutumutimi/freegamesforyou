@@ -1,3 +1,9 @@
+# Free games for you
+
+This is a website with many games, duh.
+
+# credit: Blazer
+# orginal description
 # BLAZERGAMES
 
 *Subscribe to Blazer!!!*
